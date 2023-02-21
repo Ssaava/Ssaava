@@ -6,6 +6,8 @@ I am looking forward to connecting with fellow Devs to take on the lead in this 
 Ask me about Free resources for web developers and tools mostly used by webdevelopers to boost productivity
 
 ### lets connect 
-![iconTwitter](https://user-images.githubusercontent.com/107991182/220268153-5c3980d0-df1e-49d9-af09-19c7d74f7ce4.jpg)
+![iconTwitter](https://user-images.githubusercontent.com/107991182/220270958-cb913692-5e5c-4e1b-a46d-b6ec94d6b410.png)
+
+
 
 
