@@ -1,7 +1,5 @@
 <div align="center">
-  
   ## Hi there 👋
-  
 </div>
 
 <div align="center">
@@ -16,9 +14,11 @@ I am Currently mastering CSS Frameworks and also getting started with JavaScript
 I am looking forward to connecting with fellow Devs to take on the lead in this journey of becoming Professional webDevelopers.
 Ask me about Free resources for web developers and tools mostly used by webdevelopers to boost productivity
 
----
+***
 <div align="center">
-  ### lets connect 
+  
+  ## lets connect 
+  
 </div>
 <div align="center">
   <a href="https://twitter.com/ssava_ema"><img src="IMAGES/iconTwitter.svg" style="width: 40px; height: 40px"></a>
