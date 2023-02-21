@@ -1,5 +1,7 @@
 <div align="center">
+  
   ## Hi there 👋
+  
 </div>
 
 <div align="center">
@@ -20,8 +22,11 @@ Ask me about Free resources for web developers and tools mostly used by webdevel
   ## lets connect 
   
 </div>
-<div align="center">
+
+<div align="center"> 
+  
   <a href="https://twitter.com/ssava_ema"><img src="IMAGES/iconTwitter.svg" style="width: 40px; height: 40px"></a>
+  
 </div>
 
 
