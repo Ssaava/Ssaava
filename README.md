@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<img src="IMAGES/mine.jpg" style="width: 50px; height: 50px;">
 ![My pic](IMAGES/mine.jpg){:height="50px" width="50px"}
 I am Ssaava Emma a **Front-End** Web Developer and a **Java** Programmer.
 Taking my front end web development skills to the nest level through engaging with the web development tech [twitter](https://twitter.com/ssava_ema) community and also Taking on daily challenges to improve my skills of designing responsive web designs.
