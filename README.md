@@ -1,5 +1,7 @@
 <div align="center">
 ## Hi there 👋
+</div>
+<div align="center">
 <img src="IMAGES/mine.jpg" style="width: 70px; height: 70px; border-radius: 50%;">
 </div>
 
@@ -12,6 +14,8 @@ Ask me about Free resources for web developers and tools mostly used by webdevel
 '''
 <div align="center">
 ### lets connect 
+</div>
+<div align="center">
 [<img src="IMAGES/iconTwitter.svg" style="width: 40px; height: 40px">](https://twitter.com/ssava_ema)
 </div>
 
