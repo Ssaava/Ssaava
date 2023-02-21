@@ -6,5 +6,6 @@ I am looking forward to connecting with fellow Devs to take on the lead in this 
 Ask me about Free resources for web developers and tools mostly used by webdevelopers to boost productivity
 
 ### lets connect 
-https://github.com/Ssaava/Ssaava/issues/1#issue-1592911254
+![iconTwitter](https://user-images.githubusercontent.com/107991182/220268153-5c3980d0-df1e-49d9-af09-19c7d74f7ce4.jpg)
+
 
