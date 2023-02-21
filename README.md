@@ -18,7 +18,7 @@ Ask me about Free resources for web developers and tools mostly used by webdevel
 
 ---
 <div align="center">
-### lets connect 
+  ### lets connect 
 </div>
 <div align="center">
   <a href="https://twitter.com/ssava_ema"><img src="IMAGES/iconTwitter.svg" style="width: 40px; height: 40px"></a>
