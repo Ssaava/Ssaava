@@ -8,7 +8,7 @@ I am looking forward to connecting with fellow Devs to take on the lead in this 
 Ask me about Free resources for web developers and tools mostly used by webdevelopers to boost productivity
 
 ### lets connect 
-[![my pic](IMAGES/iconTwitter.svg)](https://twitter.com/ssava_ema)
+[<img src="IMAGES/iconTwitter.svg" style="width: 40px; height: 40px">](https://twitter.com/ssava_ema)
 
 
 
