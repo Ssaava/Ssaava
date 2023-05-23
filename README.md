@@ -55,32 +55,12 @@ I have a wealth of knowledge about free resources for web developers and tools t
   ##
  
 <div> 
-  <a href = "mailto:ssavaemma4@gmail.com/"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ssava/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/ssava/" target="_blank"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fssava_ema" target="_blank"></a> 
+  <a href="https://twitter.com/ssava_ema" target="_blank"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fssava_ema"></a>
+  <a href = "mailto:ssavaemma4@gmail.com/" target="blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/ssava/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+ 
   
  
   ![Snake animation](https://github.com/bisaacm1/bisaacm1/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-
-
-
-
-
-***
-<div align="center">
-  
-  ### lets connect 
-  
-</div>
-
-<div align="center"> 
-  
-  <a href="https://twitter.com/ssava_ema"><img src="IMAGES/iconTwitter.svg" style="width: 40px; height: 40px"></a>
-  
-</div>
-
-
-
-
