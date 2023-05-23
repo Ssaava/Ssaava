@@ -56,8 +56,8 @@ I have a wealth of knowledge about free resources for web developers and tools t
  
 <div> 
   <a href = "mailto:ssavaemma4@gmail.com/"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<!--   <a href="https://www.linkedin.com/in/katende-nicholas-318a5b219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  -->
+  <a href="https://www.linkedin.com/in/ssava/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
   ![Snake animation](https://github.com/bisaacm1/bisaacm1/blob/output/github-contribution-grid-snake.svg)
  
 </div>
