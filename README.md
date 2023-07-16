@@ -37,7 +37,7 @@ I have a wealth of knowledge about free resources for web developers and tools t
 
  <div>
   <a href="https://github.com/Ssaava/Ssaava">
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=Ssaava&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=Ssaava&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 <!--   <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bkroland19&layout=compact&langs_count=7&theme=dracula"/> -->
 </div>
 <div style="display: inline_block"><br>
@@ -64,3 +64,7 @@ I have a wealth of knowledge about free resources for web developers and tools t
   ![Snake animation](https://github.com/bisaacm1/bisaacm1/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ssaava&repo=40-JavaScript-Projects)](https://github.com/Ssaava/40-JavaScript-Projects)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ssaava&langs_count=8&layout=compact)
+
