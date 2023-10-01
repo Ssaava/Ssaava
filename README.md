@@ -21,12 +21,26 @@ const SsaavaEmmanuel = {
     "🚀 I'm always eager to learn and share my knowledge with the developer community.",
     "📚 When I'm not coding, you'll find me reading, learning, and exploring new horizons.",
   ],
-  projects: [
+  projects: [],
+  skills: [
+    "HTML","CSS","JavaScript","React","Node.js","Tailwind","RESTful APIs","Babel",
+    "SASS","Bootstrap","node package manager","MongoDB","MYSQL","GitHub","Git",
+    "VSCode","Figma","Linux","Windows",
 
   ],
-  skills: ["HTML", "CSS", "JavaScript", "React", "Node.js", "Git", "RESTful APIs"],
   connectWithMe: [
-
+    {
+      platform: "GitHub",
+      link: "https://github.com/Ssaava",
+    },
+    {
+      platform: "Twitter",
+      link: "https://twitter.com/ssava_ema",
+    },
+    {
+      platform: "LinkedIn",
+      link: "https://www.linkedin.com/in/ssava/",
+    },
   ],
 };
 
@@ -67,13 +81,16 @@ const lifeInstance = new Life();
 
 console.log("In my coding life:");
 console.log(`- I co-founded ${lifeInstance.CoFounder}.`);
-console.log(`- I work as a ${lifeInstance.currentJobTitle} at ${lifeInstance.currentCompany}.`);
+console.log(
+  `- I work as a ${lifeInstance.currentJobTitle} at ${lifeInstance.currentCompany}.`
+);
 console.log(`- I'm currently learning ${lifeInstance.currentlyLearning}.`);
 console.log(`- I'm working on ${lifeInstance.currentlyWorkingOn}.`);
 console.log(`- I'm excited for ${lifeInstance.excitedFor}.`);
 console.log(`- You can contact me at ${lifeInstance.email}.`);
-console.log(`- If you find my repositories useful, please star them ${lifeInstance.starIt()} or fork them ${lifeInstance.forkIt()}.`);
-
+console.log(
+  `- If you find my repositories useful, please star them ${lifeInstance.starIt()} or fork them ${lifeInstance.forkIt()}.`
+);
 
 ```
 
