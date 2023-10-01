@@ -33,6 +33,8 @@ I have a wealth of knowledge about free resources for web developers and tools t
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=Ssaava&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
 
+## Technologies
+
 <div align="center">
 	<table>
 		<tr>
