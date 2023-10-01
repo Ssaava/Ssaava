@@ -13,7 +13,7 @@ const SsaavaEmmanuel = {
   fullName: "Ssaava Emmanuel",
   pronouns: ["he", "him"],
   role: "Web Developer",
-  location: "Your Location",
+  location: "Kampala Uganda",
   aboutMe: [
     "👋 Hi, I'm Ssaava Emmanuel, a passionate web developer!",
     "💻 I love crafting web solutions and turning ideas into reality with code.",
@@ -22,42 +22,24 @@ const SsaavaEmmanuel = {
     "📚 When I'm not coding, you'll find me reading, learning, and exploring new horizons.",
   ],
   projects: [
-    {
-      name: "Project Name 1",
-      description: "Brief project description.",
-      link: "https://github.com/your-username/project1",
-    },
-    {
-      name: "Project Name 2",
-      description: "Another awesome project.",
-      link: "https://github.com/your-username/project2",
-    },
-    // Add more projects as needed
+
   ],
   skills: ["HTML", "CSS", "JavaScript", "React", "Node.js", "Git", "RESTful APIs"],
   connectWithMe: [
-    {
-      platform: "GitHub",
-      link: "https://github.com/Ssaava",
-    },
-    {
-      platform: "LinkedIn",
-      link: "https://www.linkedin.com/in/your-linkedin-profile/",
-    },
-    // Add more social media profiles as needed
+
   ],
 };
 
 class Life extends Creativity {
   constructor() {
     super();
-    this.CoFounder = "LyteLink";
-    this.currentJobTitle = "Data Engineer";
-    this.currentCompany = "Data Science Chronicles";
-    this.currentlyLearning = "Microservices & Chaos Engineering📚";
-    this.currentlyWorkingOn = "DevSecOps 🌱";
-    this.excitedFor = "Site Reliability Engineering";
-    this.email = "byansianthony@gmail.com";
+    this.CoFounder = "Ssaava Emmanuel";
+    this.currentJobTitle = "Web Developer";
+    this.currentCompany = "Student";
+    this.currentlyLearning = "React & Tailwind CSS 📚";
+    this.currentlyWorkingOn = "Developer Toolbox open source Project 🌱";
+    this.excitedFor = "Consistency t in Learning";
+    this.email = "ssavaemma4@gmail.com";
     this.repo = new Repository("my-repo");
   }
 
@@ -83,30 +65,6 @@ class Repository {
 
 const lifeInstance = new Life();
 
-// Introduce yourself
-console.log(`Hi there! I'm ${SsaavaEmmanuel.fullName}, a ${SsaavaEmmanuel.role} from ${SsaavaEmmanuel.location}.`);
-
-// Share a bit about yourself
-SsaavaEmmanuel.aboutMe.forEach((item) => {
-  console.log(item);
-});
-
-// Show your GitHub projects
-console.log("Here are some of my projects:");
-SsaavaEmmanuel.projects.forEach((project) => {
-  console.log(`- [${project.name}](${project.link}): ${project.description}`);
-});
-
-// List your skills
-console.log("Skills: " + SsaavaEmmanuel.skills.join(", "));
-
-// Connect with you on social media
-console.log("Connect with me:");
-SsaavaEmmanuel.connectWithMe.forEach((profile) => {
-  console.log(`- [${profile.platform}](${profile.link})`);
-});
-
-// Your coding life
 console.log("In my coding life:");
 console.log(`- I co-founded ${lifeInstance.CoFounder}.`);
 console.log(`- I work as a ${lifeInstance.currentJobTitle} at ${lifeInstance.currentCompany}.`);
