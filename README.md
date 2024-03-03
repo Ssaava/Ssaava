@@ -99,7 +99,7 @@ console.log(
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=Ssaava&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/643bc0d4e2725773748ed16a?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/643bc0d4e2725773748ed16a?variant=dark)](https://roadmap.sh/befriend?u=643bc0d4e2725773748ed16a)
 
 ## Things I Code With
 
