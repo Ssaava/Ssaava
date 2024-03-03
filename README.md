@@ -100,7 +100,7 @@ console.log(
 </div>
 
 <div alight="right">
-    ![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/643bc0d4e2725773748ed16a?variant=dark)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/643bc0d4e2725773748ed16a?variant=dark)](https://roadmap.sh)
 </div>
 
 ## Things I Code With
