@@ -22,21 +22,6 @@ const SsaavaEmmanuel = {
   ],
 
 };
-
-class Life extends Creativity {
-
-  starIt() {
-    if (this.repo.useful) {
-      return "⭐";
-    }
-  }
-
-  forkIt() {
-    if (this.repo.useful) {
-      return "🍴";
-    }
-  }
-}
 ```
 
 <div>
