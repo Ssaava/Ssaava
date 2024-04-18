@@ -6,6 +6,8 @@
 
 # Hi, I'm SSAAVA EMMANUEL👋🏼 👨🏻‍💻
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1&color=F70000&center=true&random=false&width=435&lines=A+Web+Developer;Based+in+Uganda)](https://git.io/typing-svg)
+
 ## About me
 
 ```JavaScript
@@ -71,7 +73,7 @@ const SsaavaEmmanuel = {
 <div> 
   <a href="https://twitter.com/ssava_ema" target="_blank"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fssava_ema"></a>
   <a href = "mailto:ssavaemma4@gmail.com/" target="blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/ssava/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/ssava-ema/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 ![Snake animation](https://github.com/bisaacm1/bisaacm1/blob/output/github-contribution-grid-snake.svg)
 
