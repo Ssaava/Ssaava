@@ -6,7 +6,7 @@
 
 # Hi, I'm SSAAVA EMMANUEL👋🏼 👨🏻‍💻
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1&color=F70000&center=true&random=false&width=435&lines=A+Web+Developer;Based+in+Uganda)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1&color=F70000&center=false&random=false&width=435&lines=A+Web+Developer;Based+in+Uganda)](https://git.io/typing-svg)
 
 ## About me
 
