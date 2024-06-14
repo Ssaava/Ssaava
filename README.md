@@ -224,7 +224,6 @@ const SsaavaEmmanuel = {
             title="Ubuntu"
         /></code>
       </td>
-	
     </tr>
   </table>
 </div>
