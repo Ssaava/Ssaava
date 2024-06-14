@@ -223,15 +223,27 @@ const SsaavaEmmanuel = {
             alt="Ubuntu"
             title="Ubuntu"
         /></code>
-		<code>
+      </td>
+	  <td>
+	  	<code>
 			<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
 			alt="aws"
+			width="50"
+			title="AWS"
+			/>
+		</code>
+	  </td>
+	  <td>
+	  	<code href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+			<img
+			src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
+			alt="bash"
 			width="40"
 			height="40"
 			/>
 		</code>
-      </td>
+	  </td>
     </tr>
   </table>
 </div>
