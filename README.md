@@ -235,15 +235,25 @@ const SsaavaEmmanuel = {
 		</code>
 	  </td>
 	  <td>
-	  	<code href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+	  	<code>
 			<img
 			src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
 			alt="bash"
-			width="40"
-			height="40"
+			width="50"
+			title="Bash Terminal"
 			/>
 		</code>
 	  </td>
+	  <td>
+        <code>
+			<img
+			src="https://download.blender.org/branding/community/blender_community_badge_white.svg"
+			alt="blender"
+			width="50"
+			title="Blender"
+			/>
+		</code>
+      </td>
     </tr>
   </table>
 </div>
